@@ -16,6 +16,7 @@
             17.349,
             23.971,
             19.174
-        ]
+        ],
+        "allow_ligand_on_existing_chain": true
     }
 }

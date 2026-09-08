@@ -17,12 +17,13 @@
             23.971,
             19.174
         ],
-	"select_buried": {
-	    "ZN": "ZN",
-	    "PKF": "O5,P1,O6,C28,C29,C33,C36"
-	},
-	"select_exposed": {
-	    "PKF": "N5,C19,O2,C2,O8,C23,C24,C31,O3"
-	}
+	    "select_buried": {
+	        "ZN": "ZN",
+	        "PKF": "O5,P1,O6,C28,C29,C33,C36"
+	    },
+	    "select_exposed": {
+	        "PKF": "N5,C19,O2,C2,O8,C23,C24,C31,O3"
+	    },
+        "allow_ligand_on_existing_chain": true
     }
 }

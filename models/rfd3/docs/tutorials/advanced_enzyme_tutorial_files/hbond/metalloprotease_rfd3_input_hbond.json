@@ -17,11 +17,12 @@
             23.971,
             19.174
         ],
-	"select_hbond_acceptor": {
+	    "select_hbond_acceptor": {
  	       "PKF": "O4,O6,O7"
-	},	   
-	   "select_hbond_donor": {
-    	       "PKF": "N2,N4,N20"
-	}  
+	    },	   
+	    "select_hbond_donor": {
+    	    "PKF": "N2,N4,N20"
+	    },
+        "allow_ligand_on_existing_chain": true  
     }
 }
